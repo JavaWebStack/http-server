@@ -3,6 +3,11 @@
 JWS HTTP Routing Library
 </p>
 
+> !!! DISCONTINUED !!!  
+> This library has been renamed and refactored, it is now continued under [http-router](https://github.com/JavaWebStack/http-router)
+
+
+
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/JavaWebStack/http-server/Maven%20Deploy/master)
 ![GitHub](https://img.shields.io/github/license/JavaWebStack/http-server)
 ![Maven metadata URL](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo1.maven.org%2Fmaven2%2Forg%2Fjavawebstack%2FHTTP-Server%2Fmaven-metadata.xml)
